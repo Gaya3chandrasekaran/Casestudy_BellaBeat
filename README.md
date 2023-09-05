@@ -1,6 +1,7 @@
  
 
 # Case Study -BellaBeat
+Gayathri Chandrasekaran
 
 ## Introduction : About the company
 
